@@ -1,3 +1,7 @@
+시간복잡도 : O(n)
+알고리즘 : 그리디
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
