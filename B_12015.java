@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
  
 public class B_12015 {
  
-    //메서드를 위해 전역변수로 선언
+    //메서드 내 활용을 위해 전역변수로 선언
 
     static int[] arr;  //정렬되지 않은 배열
     static int[] lis;  //최장증가수열 판별을 위한 배열
