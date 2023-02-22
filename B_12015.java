@@ -64,11 +64,11 @@ public class B_12015 {
 		   if(lis[mid] < key) //중간값이 arr원소보다 작을경우 즉 오름차순으로 위치할 수 있는 인덱스를 찾았을 경우
                    {
 			low = mid + 1; 
-                        lis[mid + 1] = key; //lis의 인덱스를 계속 줄이다가 key가 lis 원소보다 커지는 순간(lis[mid]) 증가수열을 이루기 때문에 mid+ 1 한 위치에 arr 원소를 대입
+                        lis[mid + 1] = key; //lis의 인덱스를 계속 줄이다가 arr원소가 lis 원소보다 커지는 순간(lis[mid]) 증가수열을 이루기 때문에 mid+ 1 한 위치에 arr원소를 대입
 		   }
 	           else 
                     {
-			high = mid; //만약 arr원소가 여전히 lis 원소보다 작다면 high를 중간값까지 낮춰 범위를 바꿔 재 탐색 한다.
+			high = mid; //만약 arr 원소가 여전히 lis 원소보다 작다면 high를 중간값까지 낮춰 범위를 바꿔 재 탐색 한다.
 		    }
  
 	       }
