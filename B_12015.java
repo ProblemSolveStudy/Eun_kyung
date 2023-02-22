@@ -28,13 +28,13 @@ public class B_12015 {
 	
 		lis[0] = arr[0]; //비교를 위해서 값이 하나라도 존재해야하기 때문에 arr의 0번쨰 원소를 lis 0번째 인덱스에 대입
 	
-        LIS(1); //lis[0] 과 arr[1] .... arr[arr.lenght-1] 까지 계속해서 대소 비교를 할 때, 이 역할을 for문을 사용하지 않고 재귀함수 방식으로
+       	 	LIS(1); //lis[0] 과 arr[1] .... arr[arr.lenght-1] 까지 계속해서 대소 비교를 할 때, 이 역할을 for문을 사용하지 않고 재귀함수 방식으로
                   //실행할것이기 때문에 매개변수로 1을 대입하고 함수를 호출할 때 마다 1씩 순차적으로 증가시키는 방식을 선택
-        System.out.println(length);
+        	System.out.println(length);
 		
 	}
 
-    public static int LIS(int A){
+   	 public static int LIS(int A){
 
             //A가 어레이 길이와 같아지는 순간 메서드 종료, 그 직전까지는 arr의 'A'번째 원소 -> 즉 인덱스 값을 담은 변수로 사용 예정
             if(A == arr.length)
@@ -79,10 +79,10 @@ public class B_12015 {
 			
 	   }
 
-         LIS(A+1); // 위 과정이 끝나면 다음 원소의 증가수열 판별을 위해 A (arr 인덱스 넘버)에 1을 더해 다시 호출한다.
+           LIS(A+1); // 위 과정이 끝나면 다음 원소의 증가수열 판별을 위해 A (arr 인덱스 넘버)에 1을 더해 다시 호출한다.
 
-         return length;
+           return length;
 			
 		
-    }
+    	}
 }
