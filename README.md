@@ -1,7 +1,6 @@
 # Eun_kyung
 
 
-🌼 환영합니다 🌼
 
 
 
@@ -10,7 +9,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coster97&show_icons=true&theme=tokyonight)      
+ 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsrud1501222)](https://solved.ac/dmsrud1501222/)
