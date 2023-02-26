@@ -22,11 +22,10 @@ public class B_1783 {
             System.out.println((M+1) / 2);
         }else if(N >= 3){
             if(M < 7) {
-                System.out.println(Math.min(M, 4));
-				
-			}else{
+                System.out.println(Math.min(M, 4));		
+	    }else{
                 System.out.println(M-2);
-			}
+	    }
         }
     }   
 }
