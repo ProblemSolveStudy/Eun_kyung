@@ -41,7 +41,7 @@ class B_2178{
 
 		while(!q.isEmpty()) {
             
-			int[] now = q.poll();  //??????
+			int[] now = q.poll(); 
 			int nowX = now[0];
 			int nowY = now[1];
 		
