@@ -11,7 +11,7 @@
 
  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eun Kyung&fontSize=90" />
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsrud1501222)](https://solved.ac/dmsrud1501222/) <img src="http://mazandi.herokuapp.com/api?handle=dmsrud1501222&theme=dark"/>
 
@@ -22,5 +22,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+<br>
+ hi
+<br>
  
