@@ -27,7 +27,8 @@
  
  |Algorithm|Num|Status|
  |------|------|------|
- |DFS&BFS|0|Perfect|
+ |Greedy||Perfect|
+ |DFS&BFS|||
 
 <br>
  
