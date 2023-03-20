@@ -29,7 +29,7 @@
  
  |Algorithm|Num|Status|
  |------|------|------|
- |Greedy||Perfect|
+ |Greedy|||
  |DFS&BFS|||
 
 <br>
