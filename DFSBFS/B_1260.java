@@ -36,17 +36,17 @@ public class B_1260{
 			arr[a][b] = arr[b][a] = 1;
 		}
 
-		dfs(V);
+		DFS(V);
 		sb.append("\n");
 
 		visit = new boolean[N + 1];
 
-		bfs(V);
+		BFS(V);
 		System.out.println(sb);
 
 	}
 
-	public static void dfs(int start){
+	public static void DFS(int start){
 
 		visit[start] = true;
 		sb.append(start +  " ");
@@ -55,12 +55,12 @@ public class B_1260{
 
 			if(arr[start][i] == 1 && !visit[i]){
 				visit[i] = true;
-				dfs(i);
+				DFS(i);
 			}
 		}
 	}
 
-	public static void bfs(int start){
+	public static void BFS(int start){
 
 		Q.offer(start);
 		visit[start] = true;
