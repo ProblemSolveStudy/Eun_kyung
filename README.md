@@ -31,6 +31,7 @@
  |------|------|------|
  |Greedy|||
  |DFS&BFS|||
+ |Binary Search|||
 
 <br>
  
