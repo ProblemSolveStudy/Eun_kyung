@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "B_11399",
+            "request": "launch",
+            "mainClass": "B_11399",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_12015",
+            "request": "launch",
+            "mainClass": "B_12015",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_1260",
+            "request": "launch",
+            "mainClass": "B_1260",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_13460",
+            "request": "launch",
+            "mainClass": "B_13460",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_1783",
+            "request": "launch",
+            "mainClass": "B_1783",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_1931",
+            "request": "launch",
+            "mainClass": "B_1931",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_2178",
+            "request": "launch",
+            "mainClass": "B_2178",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_2873",
+            "request": "launch",
+            "mainClass": "B_2873",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_7576",
+            "request": "launch",
+            "mainClass": "B_7576",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_1654",
+            "request": "launch",
+            "mainClass": "BinarySearch.B_1654",
+            "projectName": "중앙코테스터디_e3cac69e"
+        },
+        {
+            "type": "java",
+            "name": "B_2805",
+            "request": "launch",
+            "mainClass": "BinarySearch.B_2805",
+            "projectName": "중앙코테스터디_e3cac69e"
+        }
+    ]
+}
